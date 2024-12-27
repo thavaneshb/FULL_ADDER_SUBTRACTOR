@@ -2,6 +2,8 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
+**date:25/10/2024**
+
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -65,7 +67,7 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 
 Developed by: B.THAVANESH
 
-RegisterNumber: 24900957
+RegisterNumber: 212224040352
 
 **FULL ADDER**
 ```
